@@ -16,3 +16,6 @@ Then start rviz and configure with: ‘Global Options’: ‘Fixed Frame’ > �
 Build status on Travis CI [![Build Status](https://travis-ci.org/ros-drivers/freenect_stack.svg?branch=master)](http://travis-ci.org/ros-drivers/freenect_stack)
 
 libfreenect based ROS driver
+
+sudo apt-get install ros-noetic-openni-launch
+roslaunch openni_launch openni.launch
